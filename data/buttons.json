@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Узнать цены",
+    "action": "price"
+  },
+  {
+    "text": "Заказать",
+    "action": "order"
+  },
+  {
+    "text": "Контакты",
+    "action": "contact",
+    "content": "Телеграм: @tarazz77"
+  },
+  {
+    "text": "FAQ",
+    "action": "faq",
+    "content": "Часто задаваемые вопросы...\n1. Сколько стоит сайт?\n— От 5000 руб."
+  }
+]
